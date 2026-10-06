@@ -15,7 +15,9 @@ uv sync
 ## Run
 
 ```sh
-uv run src/athletic_shotmap_erling.py
+uv run main.py
 ```
+
+`main.py` runs `src/athletic_shotmap_erling.py`. You can also run that script directly.
 
 The first run downloads the Arvo font (`Arvo-Regular.ttf`). The chart is saved as `erling_haaland_2022.png` and opens in a window.
