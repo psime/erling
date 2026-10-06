@@ -12,3 +12,8 @@ wheels/
 # Generated output
 Arvo-Regular.ttf
 erling_haaland_2022.png
+
+# Claude Code
+CLAUDE.md
+CLAUDE.local.md
+.claude/
